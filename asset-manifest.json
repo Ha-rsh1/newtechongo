@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ha-rsh1/newtechongo.git/static/css/main.7ae90d0b.css",
+    "main.js": "/Ha-rsh1/newtechongo.git/static/js/main.e6272fa4.js",
+    "index.html": "/Ha-rsh1/newtechongo.git/index.html",
+    "main.7ae90d0b.css.map": "/Ha-rsh1/newtechongo.git/static/css/main.7ae90d0b.css.map",
+    "main.e6272fa4.js.map": "/Ha-rsh1/newtechongo.git/static/js/main.e6272fa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ae90d0b.css",
+    "static/js/main.e6272fa4.js"
+  ]
+}
